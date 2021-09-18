@@ -1,3 +1,4 @@
+import java.lang.*;
 class Inheritance
 {
 	public static void main(String arg[])
