@@ -53,7 +53,7 @@ class Derived extends Base 		// class Derived : public Base
 		System.out.println("Derived gun");
 	}
 }
-
+//santosh Dhawade
 
 
 
